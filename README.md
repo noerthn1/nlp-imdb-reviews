@@ -124,6 +124,3 @@ It emphasizes interpretability, solid baselines, and thoughtful analysis — key
 
 ---
 
-
-
-Just tell me 👍
